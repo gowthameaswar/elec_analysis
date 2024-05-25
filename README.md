@@ -9,6 +9,5 @@ This project analyzes electricity consumption across different countries using S
 - 🔧 **Installation**: Clone the repository, create a virtual environment, install dependencies (`requirements.txt`), and run the Streamlit app.
 - 🚀 **Usage**: Open the Streamlit web interface and explore data by selecting countries or continents.
 - 🤝 **Contributing**: Contributions are welcome via pull requests.
-- 📜 **License**: MIT License.
 
 ---
